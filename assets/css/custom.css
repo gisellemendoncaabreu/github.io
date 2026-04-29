@@ -1,25 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;1,9..144,300;1,9..144,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap');
 
 body, p, li, td, th {
-  font-family: 'Syne', sans-serif;
-  font-weight: 400;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Syne', sans-serif;
-  font-weight: 700;
+  font-family: 'Fraunces', serif;
+  font-weight: 400;
 }
 
-.site-title {
-  font-family: 'Syne', sans-serif;
-  font-weight: 800;
-  letter-spacing: 0.03em;
-}
-
-.masthead__menu-item a {
-  font-family: 'Syne', sans-serif;
+.site-title, .masthead__menu-item a {
+  font-family: 'DM Sans', sans-serif;
   font-weight: 500;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-  font-size: 0.85em;
+  letter-spacing: 0.02em;
 }
