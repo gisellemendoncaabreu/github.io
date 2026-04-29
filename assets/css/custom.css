@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400&family=DM+Serif+Display:ital@0;1&display=swap');
+
+body, p, li, td, th {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'DM Serif Display', serif;
+  font-weight: 400;
+}
+
+.site-title, .masthead__menu-item a {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
