@@ -1,0 +1,61 @@
+---
+layout: single
+title: "Publicações"
+permalink: /publicacoes/
+author_profile: true
+---
+
+## Artigos em periódicos
+
+**"Planejamento para a 'ordem': instrumentos e práticas na urbanização da soja do Mato Grosso."**  
+*Revista Brasileira de Estudos Urbanos e Regionais* (submetido / em revisão)
+
+**"How do Cyber-Risks Vary Across Smart City Technologies?"**  
+*Journal of Urban Technology* (2025). Com Alexandra Pan et al.
+
+**"Cultivating Urban Agriculture Policies: Local Government Entrepreneurs' Strategies in Three Brazilian Cities."**  
+*Urban Planning* (2024). Com Marcela Alonso Ferreira et al. · [Link](https://www.cogitatiopress.com/urbanplanning/article/view/8166)
+
+**"Invisible Production Spaces in Metropolitan Areas: Uncovering Micro-urban Manufacturing in the Case of São Paulo, Brazil."**  
+*Cadernos Metrópole* (2018). · [Link](https://www.scielo.br/j/cm/a/4bqSjMDXpY6bPt8rcGr/?lang=en)
+
+**"A Macroárea de Estruturação Metropolitana de São Paulo: o projeto urbano como instrumento de transformação do território."**  
+*riURB – Revista Iberoamericana de Urbanismo* (2015). Com Fernando de Mello Franco e Carolina Heldt D'Almeida. · [Link](https://www.raco.cat/index.php/RIURB/article/view/307462)
+
+---
+
+## Capítulos de livros
+
+**"Real Estate Investment Trusts and the contingent financialisation of land subdivisions in agribusiness cities."**  
+In: *Handbook on Financialisation and Space*. Edward Elgar Publishing (2026, no prelo).
+
+**"Real Estate Investment Trusts and Land Subdivisions: New Frontiers of Financialization in Agribusiness Cities."**  
+In: *ANPUR 40 Years: new times, new challenges in a diverse Brazil*. Urban Studies Foundation (2024).
+
+**"'Semeando Cidades': Uma Genealogia da Colonização Rural-Urbana no Brasil."**  
+In: *Acumulação do Capital e Reprodução da Vida*. Instituto das Cidades/UNIFESP (2022). · [Link](https://repositorio.unifesp.br/items/b245826e-2bdf-497b-85b3-3fde0b6afaf9)
+
+**"Política Urbana e Comércio de Rua na Cidade de São Paulo."**  
+In: *Varejo em Polos de Rua*. Actual Editora (2020). Com Fernando de Mello Franco.
+
+---
+
+## Anais de eventos
+
+"Real Estate Investment Trusts and Subdivisions: New Frontiers of Financialization in Agribusiness Cities." *XX ENANPUR*, Belém, 2023.
+
+"Urban Rooftops: Unexplored Potential, Normative Dimension, and Urban Tools." *Fórum SP23*, São Paulo, 2023.
+
+"Buying Lots with Soybean Bushels: Rural Producers and Urban Real Estate Market in Agribusiness Cities." *XVII SIMPURB*, Curitiba, 2022.
+
+---
+
+## Relatórios técnicos e outras publicações
+
+"Book Review – Shareholder Cities." *Urban Studies* 59 (12), 2022. · [Link](https://doi.org/10.1177/00420980221080077)
+
+"The Cybersecurity Risks of Smart City Technologies." CLTC White Paper, UC Berkeley, 2021. Com Karen Frick et al. · [Link](https://cltc.berkeley.edu/publication/smart-cities/)
+
+"Benchmarking 'Smart City' Technology Adoption in California." ITS Research Report, UC Berkeley, 2021. Com Karen Frick et al. · [Link](https://escholarship.org/uc/item/3797p0ws)
+
+"Connect the Dots." Publicação para a 7ª IABR. SMDU/Prefeitura de São Paulo, 2016. Com Fernando de Mello Franco et al.
