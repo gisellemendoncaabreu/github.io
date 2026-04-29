@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Giselle Mendonça Abreu"
   pronouns         : # example: "she/her"  
-  bio              : "Pesquisadora de pós-doutorado"
-  location         : "São Paulo, SP, Brasil"
-  employer         : "Universidade de São Paulo"
+  bio              : "Pesquisadora"
+  location         : "São Paulo, SP"
+  employer         : "FAU-USP"
   uri              : # URL
   email            : "giselle.mendonca@usp.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=LMd97dsAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8414-0921"
