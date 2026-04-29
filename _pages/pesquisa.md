@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Pesquisa"
 permalink: /pesquisa/
 author_profile: true
