@@ -7,9 +7,6 @@ author_profile: true
 
 ## Artigos em periódicos
 
-**"Planejamento para a 'ordem': instrumentos e práticas na urbanização da soja do Mato Grosso."**  
-*Revista Brasileira de Estudos Urbanos e Regionais* (submetido / em revisão)
-
 **"How do Cyber-Risks Vary Across Smart City Technologies?"**  
 *Journal of Urban Technology* (2025). Com Alexandra Pan et al.
 
